@@ -1,1 +1,115 @@
-# Flex-example-with-photo-
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Recipe Blogs</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+    
+        <div class="heading">
+            <div>
+                <p class="small-line">RECIPES</p>
+                <h2>Recipe Blogs</h2>
+            </div>
+
+            <button>View more</button>
+        </div>
+
+
+  
+        <div class="recipe-layout">
+
+      
+            <div class="main-recipe">
+
+                <img src="images/main.jpg" alt="Main recipe">
+
+                <p class="date">November 16, 2018</p>
+
+                <h3>Our Recipes Blog</h3>
+
+                <p class="description">
+                    Our delicious food example for flex 
+                </p>
+
+            </div>
+
+
+      
+            <div class="side-recipes">
+
+          
+                <div class="side-recipe">
+
+                    <img src="images/recipe1.jpg" alt="Hot Meatloaf">
+
+                    <div class="recipe-info">
+                        <p class="date">April 27, 2019</p>
+
+                        <span>FOOD</span>
+
+                        <h4>Hot Meatloaf</h4>
+
+                        <p>
+                            delicious recipe 
+                        </p>
+                    </div>
+
+                </div>
+
+
+          
+                <div class="side-recipe">
+
+                    <img src="images/recipe2.jpg" alt="Instant Pot">
+
+                    <div class="recipe-info">
+                        <p class="date">May 14, 2019</p>
+
+                        <span>FOOD</span>
+
+                        <h4>Instant food</h4>
+
+                        <p>
+                            delicious butter chicken
+                        </p>
+                    </div>
+
+                </div>
+
+
+          
+                <div class="side-recipe">
+
+                    <img src="images/recipe3.jpg" alt="Grill Salmon">
+
+                    <div class="recipe-info">
+                        <p class="date">May 20, 2019</p>
+
+                        <span>FOOD</span>
+
+                        <h4>Best Grill</h4>
+
+                        <p>
+                            wow food grill
+                        </p>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
